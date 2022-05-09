@@ -1,5 +1,5 @@
 * {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
 }
 
 body {
@@ -21,7 +21,7 @@ body {
 .header {
     font-size: 2.5rem;
     color: #14213d;
-    font-family: 'Londrina Outline', 'Montserrat', sans-serif;
+    font-weight: 600;
 }
 
 /* JOKE */
